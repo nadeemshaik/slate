@@ -1,6 +1,7 @@
 {
   "name": "slate-packages-fork",
   "version": "0.1.0",
+  "main": "examples/rich-text/index.js",
   "workspaces": [
     "packages/*"
   ],
