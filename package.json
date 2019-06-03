@@ -1,5 +1,5 @@
 {
-  "name": "slate-packages",
+  "name": "slate-packages-fork",
   "version": "0.1.0",
   "workspaces": [
     "packages/*"
